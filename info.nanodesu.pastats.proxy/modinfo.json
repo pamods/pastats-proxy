@@ -12,10 +12,10 @@
   "enabled": true,
   "forum": "https://forums.uberent.com/threads/rel-pa-stats-52168.50690/",
   "icon": "http://ns393951.ip-176-31-115.eu/mod/icon.png",
-  "identifier": "info.nanodesu.pastats",
+  "identifier": "info.nanodesu.pastats.proxy",
   "priority": 100,
   "dependencies": [
-    "info.nanodesu.pastats.proxy"
+    "info.nanodesu.pastats"
   ],
   "signature": "not yet implemented",
   "version": "Autoupdating_v2"
